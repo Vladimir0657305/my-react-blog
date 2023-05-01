@@ -14,7 +14,7 @@ const Navbar = (props) => {
 
     const submitSearch = (e) => {
         e.preventDefault();
-        alert('Searhed');
+        alert('Searched');
 
     }
 
